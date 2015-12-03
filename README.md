@@ -1,4 +1,6 @@
-GemStore
+# GemStore
 ========
 
 The Flatlannders GemStore.
+
+* AngularJS
